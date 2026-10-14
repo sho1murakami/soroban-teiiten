@@ -1,0 +1,15 @@
+{
+  "name": "定位点チャレンジ",
+  "short_name": "定位点",
+  "description": "そろばん3級の定位法を、実際に珠を置いて確かめる練習アプリ",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EDF2F0",
+  "theme_color": "#4A2E1D",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
